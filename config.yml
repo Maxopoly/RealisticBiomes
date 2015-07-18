@@ -54,7 +54,7 @@ realistic_biomes:
    # greenhouse is represented by immediate proximity of a glowstone block with light level 14
    greenhouse_rate: 0.75
    # if this flag is true, then the greenhouse growth will also ignore biome growth rates
-   greenhouse_ignore_biome: true
+   greenhouse_ignore_biome: false
    # if this flag is true, the growth rate of the grower is modulated by sunlight levels
    # ie sunlight level = 15 means full growth, while sunlight level 0 means 0 growth
    # sunlight level is disregarded is this flag is false
