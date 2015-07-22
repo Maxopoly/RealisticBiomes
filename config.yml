@@ -227,7 +227,7 @@ realistic_biomes:
    needs_sunlight: true
    not_full_sunlight_multiplier: 0.125
    greenhouse_rate: 0.75
-   greenhouse_ignore_biome: true
+   greenhouse_ignore_biome: false
    biomes:
     mushroom: 0.5
     freshwater: 0.5
